@@ -2,11 +2,11 @@ My own spinoff of [DaRk_dOg's Ender 3 Pro to Switchwire conversion](https://gith
 
 I have modified the entire enclosure to use bolts and heat inserts instead of VBH tape. The door hinges use M3 bolts instead of relying on plastic. 
 
-BOM:
-10x M5x10mm BHCS
-64x M3x8mm BHCS
-4x M3x40mm SHCS
-64x M3x4mm Brass Inserts
+BOM: /n
+10x M5x10mm BHCS /n
+64x M3x8mm BHCS /n
+4x M3x40mm SHCS /n
+64x M3x4mm Brass Inserts /n
 
 ![image](https://user-images.githubusercontent.com/82473060/226141142-44fc6068-aa60-4b15-bbdb-47f5e17cdd5e.png)
 
