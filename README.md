@@ -1,16 +1,19 @@
 # Xnderwire
-My own spinoff of [DaRk_dOg's Ender 3 Pro to Switchwire conversion](https://github.com/boubounokefalos/Ender_SW). 
+  My own spinoff of [DaRk_dOg's Ender 3 Pro to Switchwire conversion](https://github.com/boubounokefalos/Ender_SW). 
 
 ## Enclosure
-I have modified the entire enclosure to use bolts and heat inserts instead of VBH tape. The door hinges use M3 bolts instead of relying on plastic. 
+  I have modified the entire enclosure to use bolts and heat inserts instead of VBH tape. The door hinges use M3 bolts instead of relying on plastic. 
 
-### BOM: 
-  ```
+### BOM
+  
   10x M5x10mm BHCS 
   64x M3x8mm BHCS 
   4x M3x40mm SHCS 
   64x M3x4mm Brass Inserts 
-  ```
+  
+## Y Axis 9mm Belt Mod
+  The idler and carriage have been modified to use 9mm belt instead of 6mm. 
+  
 
 ![image](https://user-images.githubusercontent.com/82473060/226141142-44fc6068-aa60-4b15-bbdb-47f5e17cdd5e.png)
 
