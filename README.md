@@ -6,15 +6,16 @@
 
 ### BOM
   
-  10x M5x10mm BHCS 
+  10x M5x10mm BHCS  
+  
   64x M3x8mm BHCS 
+  
   4x M3x40mm SHCS 
+  
   64x M3x4mm Brass Inserts 
+![image](https://user-images.githubusercontent.com/82473060/226141142-44fc6068-aa60-4b15-bbdb-47f5e17cdd5e.png)
+![IMG_20230318_155115__01](https://user-images.githubusercontent.com/82473060/226141063-1fcef592-1a1d-4db8-ab13-c7184fd71a32.jpg)
   
 ## Y Axis 9mm Belt Mod
   The idler and carriage have been modified to use 9mm belt instead of 6mm. 
   
-
-![image](https://user-images.githubusercontent.com/82473060/226141142-44fc6068-aa60-4b15-bbdb-47f5e17cdd5e.png)
-
-![IMG_20230318_155115__01](https://user-images.githubusercontent.com/82473060/226141063-1fcef592-1a1d-4db8-ab13-c7184fd71a32.jpg)
